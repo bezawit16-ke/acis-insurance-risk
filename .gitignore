@@ -1,2 +1,6 @@
-"data/*" 
-".venv/" 
+# Task 1: Ignore raw datasets
+data/raw/*.csv
+data/raw/*.dsv
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
