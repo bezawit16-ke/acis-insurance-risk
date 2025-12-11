@@ -1,2 +1,3 @@
-"data/*" 
-".venv/" 
+# Task 3: Ignore statistical output logs
+*.log
+
